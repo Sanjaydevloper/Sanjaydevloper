@@ -1,6 +1,6 @@
 ![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://github.com/user-attachments/assets/56c4d6a9-1535-4c08-9e8a-ca97d5dce43b)
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Sannjaya kumar pradhan</h1>
+<h1 align="center">Hi 👋, I'm Sanjaya kumar pradhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React**
